@@ -205,7 +205,7 @@ export default class About extends Component {
                     <a href="https://goit.global/us/" style={{ color: "orange", textDecoration: "none" }}>
                       GoIT - <span style={{ color: "black" }}>start your career in</span>  IT</a> </h3>
                   <p className='text-center mb-3' >
-                    Full Stack Developer | feb 2023 – dec 2023 <tr/>
+                    Full Stack Developer | feb 2023 – dec 2023 <br/>
                     During my studies, I participated in significant
                     projects, including the creation of websites and applications.
                     I developed interfaces using modern technologies such as React and Redux.
